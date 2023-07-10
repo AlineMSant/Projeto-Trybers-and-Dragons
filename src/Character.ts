@@ -1,5 +1,5 @@
 import Energy from './Energy';
-import Fighter from './Fighter';
+import Fighter from './Fighter/Fighter';
 import Race from './Races/Race';
 import Archetype from './Archetypes/Archetype';
 import Mage from './Archetypes/Mage';
